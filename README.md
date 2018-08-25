@@ -4,6 +4,26 @@ Crea una web-app que a través de un input pueda filtrar los restaurantes
 que se encuentran cerca de ti *(Tú decides la estructura que tendrán tus datos,
 puedes crear una lista de restaurantes en un arreglo, en un objeto, consumir una API, etc. Lo importante es que el contenido debe ser dinámico y no estático y el diseño es totalmente libre)*.
 
+## Definición del producto
+
+## Principales usuarios de producto
+Los principales usuarios de Foodmap seran hombres y mujeres de 20 años a más, que cuenten con un trabajo estable y esten laborando actualmente. Estos usuarios gustan de pedir comida por delivery y hacer reservaciones en restaurantes y/o fastfoods de su preferencia.
+## Descubriendo las necesidades de los usuarios
+Al ser usuarios que trabajan y tienen un ritmo de vida agitado, no suelen tener tiempo para ir a un restaurante o salir a alrededores a buscar uno. Por ello foodmap nace a travez de esta necesidad de encontrar una aplicacion donde el usuario pueda facilitar su busqueda de restaurantes, donde pueda realizar una reservación y/o delivery.
+## Qué problema resuelve el producto para estos usuarios
+Como se menciona lineas arriba, foodmap facilita la busqueda al usuario a la hora de encontrar un restaurante cerca de él, seleccionar por tipo de comida,
+precio, sugerencias, etc.
+## Objetivos de los usuarios en relación con el producto
+## Principales funcionalidades del producto
+
+## Cómo verificaste que el producto les está resolviendo sus problemas
+## Cómo te asegurarás que estos usuarios usen este producto.
+## Benchmark 
+## Resumen de entrevistas con usuarios.
+## Link/screenshots del prototipo de alta fidelidad.
+## Conclusiones de testing con el prototipo de alta fidelidad con usuarios
+## Conclusiones de testing con el producto en HTML.
+
 #### Flujo de la aplicación.
 
 Vista splash con duración de 2 segundos que redirecciona a tu vista

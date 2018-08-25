@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Foodmap</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+    <!--vista splash-->
+    <div class="loader hidden blue-grey lighten-5">
+        <img class="responsive-img" src="imagenes/loading.gif" alt="loading">
+        <img class="responsive-img" src="imagenes/logofm.png" alt="logo">
+    </div>
+    <!--pagina principal-->
+
+    <nav>
+        <div class="nav-wrapper yellow darken-1">
+            <a href="#!" class="brand-logo center">
+                <img width="130" height="auto" class="navlogo responsive-img" src="imagenes/logofm.png" alt="logo foodmap">
+            </a>
+            <a href="#" data-target="mobile-demo" class="sidenav-trigger">
+                <i class="large navlogo material-icons">menu</i>
+            </a>
+            <ul class="right hide-on-med-and-down">
+                <li>
+                    <a href="collapsible.html">Salir</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h3>¿Qué deseas comer hoy?</h3>
+        <div class="container section">
+            <div class="row">
+                <div class="input-field col s6">
+                    <i class="material-icons prefix">search</i>
+                    <input id="search" type="text" class="autocomplete">
+                    <label for="search">Buscar..</label>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div id="answer" class="col s12 m6 l3 center-align">
+            </div>
+        </div>
+
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+        <script src="app.js"></script>
+</body>
+
+</html>

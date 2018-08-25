@@ -1,0 +1,66 @@
+[{
+        "name": "El parrillón",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMObKqSKVpZZW44wKktRYJwvfER4TaoTLagwNKyAMmYCzIPqrwfA",
+        "district": "Miraflores",
+        "address": "Av 28 de julio 795",
+        "typeFood": "Carnes y parrillas",
+        "phone": "4453061"
+    },
+    {
+        "name": "friday´s",
+        "image": "https://media-cdn.guatemala.com/images/directory/listings/sitemgr_photo_29752.jpg",
+        "district": "Miraflores",
+        "address": "Av santa Cruz 824",
+        "typeFood": "Carnes y parrillas",
+        "phone": "2214080"
+    },
+    {
+        "name": "La Tranquera",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVHDCzRWemXk_65mJncOnUFgfmhO8kIOtvdfhNPdu39SddrFA",
+        "district": "Miraflores",
+        "address": "Av Pardo 285",
+        "typeFood": "Carnes y parrillas",
+        "phone": "4454523"
+    },
+    {
+        "name": "Madame Tusan",
+        "image": "https://www.everythingperu.com/media/reviews/photos/original/c7/62/6e/7-11-1393770695.jpg",
+        "district": "Miraflores",
+        "address": "Av santa Cruz 859",
+        "typeFood": "Chifa",
+        "phone": "5055090"
+    },
+    {
+        "name": "Huaca Pucllana",
+        "image": "http://limasabe.pe/wp-content/uploads/2015/05/La-Huaca_10.jpg",
+        "district": "Miraflores",
+        "address": "General Borgoño Cdra. 8",
+        "typeFood": "Comida Criollas",
+        "phone": "4454042"
+    },
+    {
+        "name": "Amaz",
+        "image": "http://perucelebra.com/wp-content/uploads/2017/02/gastroamazfoto-448x252.jpg",
+        "district": "Miraflores",
+        "address": "Avenida La Paz 1079",
+        "typeFood": "Comida de la selva",
+        "phone": "2219393"
+    },
+    {
+        "name": "Edo Sushi Bar",
+        "image": "https://cdn.needish.com/is-prod-deals/gu4PtrtzcFnFuNl6upvaeQ/scale/900x600.jpg",
+        "district": "Miraflores",
+        "address": "Calle Berlin 601 Urb.miraflores",
+        "typeFood": "Comida japonesa",
+        "phone": "2432448"
+    },
+    {
+        "name": "Embarcadero 41",
+        "image": "https://img.elcomercio.pe/files/article_content_ec_fotos/files/crop/uploads/2018/04/30/5ae76ff2c1cd4.r_1525117892672.0-32-992-602.jpeg",
+        "district": "Miraflores",
+        "address": "Av. La Mar 456",
+        "typeFood": "Fusión",
+        "phone": "5055090"
+    }
+
+]
