@@ -13,16 +13,6 @@ Al ser usuarios que trabajan y tienen un ritmo de vida agitado, no suelen tener 
 ## Qué problema resuelve el producto para estos usuarios
 Como se menciona lineas arriba, foodmap facilita la busqueda al usuario a la hora de encontrar un restaurante cerca de él, seleccionar por tipo de comida,
 precio, sugerencias, etc.
-## Objetivos de los usuarios en relación con el producto
-## Principales funcionalidades del producto
-
-## Cómo verificaste que el producto les está resolviendo sus problemas
-## Cómo te asegurarás que estos usuarios usen este producto.
-## Benchmark 
-## Resumen de entrevistas con usuarios.
-## Link/screenshots del prototipo de alta fidelidad.
-## Conclusiones de testing con el prototipo de alta fidelidad con usuarios
-## Conclusiones de testing con el producto en HTML.
 
 #### Flujo de la aplicación.
 
