@@ -5,6 +5,7 @@ que se encuentran cerca de ti *(Tú decides la estructura que tendrán tus datos
 puedes crear una lista de restaurantes en un arreglo, en un objeto, consumir una API, etc. Lo importante es que el contenido debe ser dinámico y no estático y el diseño es totalmente libre)*.
 
 ## Definición del producto
+![logo](imagenes/logofm.png)
 
 ## Principales usuarios de producto
 Los principales usuarios de Foodmap seran hombres y mujeres de 20 años a más, que cuenten con un trabajo estable y esten laborando actualmente. Estos usuarios gustan de pedir comida por delivery y hacer reservaciones en restaurantes y/o fastfoods de su preferencia.
